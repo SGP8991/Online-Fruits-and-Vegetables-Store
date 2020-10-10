@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">f_vstore</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_mycart">MyCart</string>
+    <string name="f_vstore">f_vstore</string>
+    <string name="welcome_to_f_vstore">Welcome To f_vstore</string>
+    <string name="nav_header_title">f_vstore</string>
+
+</resources>
